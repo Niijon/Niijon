@@ -3,21 +3,21 @@
 
 # Hi there 👋
 
-My name is Szymon and I come from Poland. Currently I am studing Automation and Robotics at the Poznań University of technology.
+My name is Szymon and I come from Poland. Currently I am studying Automation and Robotics at the Poznań University of technology.
 
 - 🔭 Currently I am part of students organization that works on building solar cars. These cars are using electric engines and PV panels to use some natural power resources.
 - 🌱 I’m currently spending my time on learning Electronics and perfecting my skills in programming microcontrollers.
 - 🤔 I’m looking for help in both electronics so I can learn faster and exploring new ideas
 - 😄 I’m interested in broadly understood technology, science and mathematics. In private I also do many various things such as numerous types of activities and reading books. I am also fond of cooking some delicious food.
 
-# Experience 
+# Working Experience 
 
 ## Working in company
 <p align="left"> <a href="https://www.forcom.com.pl/pl/home/" target="_blank"> <img src="https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/241107790_293747682555203_1435001992508893606_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=JvrS0W3EDosAX_izOsL&_nc_ht=scontent.fpoz3-1.fna&oh=ac830b455c7e9f0760512f9787b0be45&oe=619E7ED3" alt="Forcom" width="40" height="40"/> </a> </p>
-At the moment I have finished my first work in programming industry. I have been working for Forcom organization as a C# programmer. I also used both .NET and SQL as well as worked with some APIs mainly using REST. Gained a lot of experience while spending my time there.
+At the moment I have finished my first job in programming industry. I have been working for Forcom organization as a C# programmer. I also used both .NET and SQL as well as worked with some APIs mainly using REST. Gained a lot of experience while spending my time there.
 
 ## PUT Solar Dynamics organization
-I also have a couple of projects that I have been a part of inside of the PUT Solar Dynamics organization. I have been responsible for carring out ECM project that has been fully implemented as main controller inside of CAN communication iterface of the car. I also have been a part of MPPT project and currently I am also working on Dashboard project as well as new Telemetry project that is going to be implemented in new car.
+I am also working on couple of projects as a member of PUT SOLAR DYNAMICS organization. I have been responsible for carring out ECM project that has been fully implemented as main controller inside of CAN communication iterface of the car. I also have been a part of MPPT project and currently I am also working on Dashboard project as well as new Telemetry project that is going to be implemented in new car.
 
 Aside from programming experience I also am responsible for project management because I am one of the seniors in PUT Solar Dynamics organization so I spent a lot of time in means to implement new solutions and solve problems. 
 
@@ -32,9 +32,9 @@ As a student I also have gathered some experience in Electronics because I have 
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niijon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymKwiatkowski&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niijon&show_icons=true&theme=radical&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymKwiatkowski&show_icons=true&theme=radical&hide=contribs)
 
 
 
