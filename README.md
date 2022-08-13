@@ -14,7 +14,11 @@ My name is Szymon and I come from Poland. Currently I am studying Automation and
 
 ## Working in company
 <p align="left"> <a href="https://www.forcom.com.pl/pl/home/" target="_blank"> <img src="https://logos.gpcdn.pl/loga-firm/18797771/03000000-bb2f-3863-31e8-08d8e893f742_280x280.png" alt="Forcom" width="50" height="50"/> </a> </p>
-At the moment I have finished my first job in programming industry. I have been working for Forcom organization as a C# programmer. I also used both .NET and SQL as well as worked with some APIs mainly using REST. Gained a lot of experience while spending my time there thanks to my great superiors.
+In 2021 I have been working for Forcom organization as a C# programmer. I also used both .NET and SQL as well as worked with some APIs mainly using REST. Gained a lot of experience while spending my time there thanks to my great superiors.
+
+---
+At the moment I am working for GOONLINE company. I am currently leader of small team and we are working on both hardware and software for drones. 
+
 
 ## PUT Solar Dynamics organization
 I am also working on couple of projects as a member of PUT SOLAR DYNAMICS organization. I have been responsible for carring out ECM project that has been fully implemented as main controller inside of CAN communication iterface of the car. I also have been a part of MPPT project and currently I am also working on Dashboard project as well as new Telemetry project that is going to be implemented in new car.
