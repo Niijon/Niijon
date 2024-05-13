@@ -44,5 +44,5 @@ As a student I also have gathered some experience in Electronics because I have 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymKwiatkowski&show_icons=true&theme=radical&hide=contribs)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
